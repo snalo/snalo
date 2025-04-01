@@ -2,7 +2,7 @@
 
 ## Personal Details
 
-* Name : Seun Alo  
+* Name : Seun Alo
 
 ## Educational Background
 
@@ -45,4 +45,5 @@ Supported teaching and research in embedded systems, image processing, and machi
 * 📫 How to reach me:
   * E-mail: seun.alo [at] uky.edu
   * LinkedIn: [linkedin.com/in/seunalo](https://www.linkedin.com/in/seunalo)
+  * CV Site: [snalo.github.io](https://snalo.github.io)
 
