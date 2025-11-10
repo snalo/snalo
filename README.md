@@ -84,6 +84,6 @@
 
 ## Connect
 
-- 📫 **Email:** [oluwaseunalo@gmail.com](mailto:oluwaseunalo@gmail.com)  
+- 📫 **Email:** oluwaseunalo[at]gmail[dot]com
 - 💼 **LinkedIn:** [linkedin.com/in/seunalo](https://www.linkedin.com/in/seunalo)  
 - 🌐 **Portfolio:** [snalo.github.io](https://snalo.github.io)  
