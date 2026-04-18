@@ -2,7 +2,7 @@
 
 ## Personal Details
 
-**Name:** Oluwaseun (Seun) Alo  
+**Name:** Oluwaseun (Sean) Alo  
 **Status:** Ph.D. Candidate, Electrical Engineering, University of Kentucky  
 **Location:** Lexington, KY, USA  
 **Work Authorization:** U.S. Permanent Resident (Green Card Holder)  
@@ -13,8 +13,8 @@
 
 - **Ph.D. in Electrical Engineering** (In Progress) – *University of Kentucky, USA*  
   *Dissertation (in progress): Design of an Efficient, Scalable, and Flexible Tensor Processing Architecture with Photonic Integrated Circuits*  
-- **M.Sc. in Electrical/Electronic Engineering** – *University of Ibadan, Nigeria*  
-- **B.Eng. in Electrical/Electronic Engineering** – *Federal University of Technology, Akure, Nigeria*  
+- **M.Sc. in Electrical/Electronic Engineering**  
+- **B.Eng. in Electrical/Electronic Engineering**
 
 ---
 
@@ -25,7 +25,7 @@
 *Aug 2022 – Present*  
 - Design and evaluate **photonic-based hardware accelerators** for geometric and deep learning applications.  
 - Develop **tensor processing architectures** and optimize dataflow for high-throughput, energy-efficient computation.  
-- Conduct **Ferromagnetic Resonance (FMR)** experiments for spintronic material characterization and hybrid photonic–magnetic computing studies.  
+- Contributes to **Ferromagnetic Resonance (FMR)** experiments for spintronic material characterization and hybrid photonic–magnetic computing studies.  
 - Model and simulate **photonic integrated circuits (PICs)** for optical interconnect optimization.  
 - Publish in **IEEE** and **ACM** venues on photonic tensor cores, GEMM accelerators, and neuromorphic computing.  
 
@@ -65,13 +65,17 @@
 
 ## Selected Publications
 
+- **O. A. Alo, S. S. Vatsavai, and I. G. Thakkar**  
+  *Scaling analog photonic accelerators for byte-size, integer general matrix multiply (GEMM) kernels*, ISVLSI 2024.  
 - **I. Thakkar, S. S. Vatsavai, V. S. P. Karempudi, and O. A. Alo.**  
   *Scaling Up the Sustainability of Photonic Tensor Cores with Device-Circuit-Signaling Co-Design*, IEEE ICCD 2025.  
 - **S. Afifi, O. A. Alo, et al.**  
   *ASTRA: A Stochastic Transformer Neural Network Accelerator with Silicon Photonics*, *ACM TECS*, 2025.  
 - **S. Afifi, O. A. Alo, et al.**  
-  *A Light-Speed LLM Accelerator with Optical Stochastic Computing*, GLSVLSI 2025.  
-
+  *A Light-Speed LLM Accelerator with Optical Stochastic Computing*, GLSVLSI 2025.
+- **O. A. Alo and I. G. Thakkar**
+  *Scaling Photonic Tensor Cores with Unary and Homodyne Designs*, Optical Interconnects and Packaging (OIP) Conference, 2025
+More Publications on [Google Scholar](https://scholar.google.com/citations?user=G3mc-ksAAAAJ&hl=en)  
 ---
 
 ## Technical Skills
