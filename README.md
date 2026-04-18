@@ -75,7 +75,8 @@
   *A Light-Speed LLM Accelerator with Optical Stochastic Computing*, GLSVLSI 2025.
 - **O. A. Alo and I. G. Thakkar**
   *Scaling Photonic Tensor Cores with Unary and Homodyne Designs*, Optical Interconnects and Packaging (OIP) Conference, 2025
-More Publications on [Google Scholar](https://scholar.google.com/citations?user=G3mc-ksAAAAJ&hl=en)  
+  
+  More Publications on [Google Scholar](https://scholar.google.com/citations?user=G3mc-ksAAAAJ&hl=en)  
 ---
 
 ## Technical Skills
